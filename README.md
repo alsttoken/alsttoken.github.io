@@ -1,40 +1,40 @@
-# Getting started
+---
+description: We are All Set, let's go!
+---
 
-## Welcome !
+# About ALST
 
-{% hint style="info" %}
-**Good to know:** A design system is a product, and similar best practices to product docs apply when documenting a design system. Offering succinct ways to get started is a great way to introduce the concepts of your design system, while empowering folks to use it for their needs.
-{% endhint %}
+## Introduction
 
-## Installing
+“All Set Token” (ALST) is a purely community-based project built on Algorand Blockchain.  It is live on Algo mainnet on 7th Nov 2021.
 
-Our design system is written in React, and can be installed into your project via NPM or Yarn.
+Before start:
 
-{% tabs %}
-{% tab title="npm" %}
-`npm install --save @my-product/my-design-system`
-{% endtab %}
+We have no team
 
-{% tab title="yarn" %}
-`yarn add -S my-design-system`
-{% endtab %}
-{% endtabs %}
+We have no dev
 
-## Usage
+We have no plan
 
-Import the components you need:
+The community is founded from nothing.  With the decentralisation feature of ALST, we aim to connect every enthusiast of different backgrounds, roles, and expertise.  Community members are encouraged to express their idea through different channels.  These ideas would be collected, distilled and further elaborate into action plan to be adopted by the team.  Finally the plan would be collaboratively executed by active team members in their respective professions.
 
-`import {Button, ActionBar} from @my-product/my-design-system`
+Features and functionalities would be built by the above workflow.  The resulting project growth would be reflected in the increase in token value.
 
-Then use them in your app or components:
 
-```javascript
-const header = () => (
-    <div>
-        <ActionBar>
-            <Button kind="primary" label="Save" />
-            <Button kind="secondary" label="Cancel" />
-        </ActionBar>
-    </div>
-)
-```
+
+![](.gitbook/assets/value\_model.jpg)
+
+## Community
+
+Community participation is crucial to this project success.  Communication is mainly on Telegram, Reddit and Twitter.  Other channels would be published once set up in the future.
+
+Governance could not be implemented In the current protocol of ALST token.  But this would be implemented once the condition could be fulfilled.  Decentralisation is our core value.
+
+## Project Growth
+
+Like all decentralised projects, slow project growth is common in the beginning due to the lack of active members in the community.  Then the growth would be exponential after a certain point of time.
+
+Blockchain is growing in unprecedented speed.  Unlike other project with a dedicated team with a set goal for development, ALST adopts a more flexible approach on driving project growth.  We are dedicated to utilise our development incentives reserved to accomplish our goal through partnership, alliance or team development.  Community has the decision to choose which way to go.
+
+![](.gitbook/assets/growth\_method.jpg)
+
